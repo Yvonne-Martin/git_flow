@@ -1,0 +1,15 @@
+.state{
+    font-size: xx-large;
+}
+.try{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 14px 12px;
+
+}
+.view{
+    border-radius: 20px;
+    padding: 14px 12px;
+
+}
